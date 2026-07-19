@@ -1,0 +1,6 @@
+{
+  "name": "Chichén Itzá Guías Locales",
+  "description": "Tours guiados certificados en Chichén Itzá. Explora la gran ciudad maya con cenotes sagrados y deliciosa gastronomía yucateca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
